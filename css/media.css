@@ -1,0 +1,49 @@
+/* START NAV BAR MEDIA */
+@media (0px <=width <=670px) {
+
+    #navBar ul li a {
+        font-size: 0.75rem !important;
+        font-weight: bolder;
+    }
+}
+/* END NAV BAR MEDIA */
+
+/* START HEADER MEDIA */
+@media (0px <=width <=769px) {
+
+    header {
+        padding-top: 10rem;
+    }
+}
+/* END HEADER MEDIA */
+
+/* START CHEF MEDIA */
+@media (0px <=width <=769px) {
+    #chefs {
+        padding-top: 10rem;
+    }
+}
+
+@media (0px <=width <=1200px) {
+    #chefs .chefs {
+        margin-bottom: 2rem;
+    }
+}
+/* END CHEF MEDIA */
+
+/* START FOOTER MEDIA */
+@media (0px <=width <=670px) {
+
+    #contact form {
+        margin-top: 3rem;
+    }
+}
+
+@media (0px <=width <=770px) {
+
+    #footer .email button {
+        width: 100%;
+        margin-top: 1rem;
+    }
+}
+/* END FOOTER MEDIA */
